@@ -9,12 +9,14 @@
 
 <img src="https://raw.githubusercontent.com/bonfacemecha/Vue-SPA-App/master/public/images/Capturespa.PNG" alt="image">
 
-##How to install
+## How to install
+
 1. Clone it
 2. Run composer install
 3. Create the .env file
-4. Run php artisan serve 
-5. Happy coding
+4. Run npm install && npm run dev
+5. Run php artisan serve 
+6. Happy coding
 ## About Laravel
 
 
