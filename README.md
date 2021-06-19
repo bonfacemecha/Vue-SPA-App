@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<img src=”public/images/Capturespa.png" alt=“image”>
+<img src=”https://github.com/bonfacemecha/Vue-SPA-App/blob/master/public/images/Capturespa.PNG" alt=“image”>
 
 ##How to install
 1. Clone it
