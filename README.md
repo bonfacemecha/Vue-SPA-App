@@ -14,9 +14,11 @@
 1. Clone it
 2. Run composer install
 3. Create the .env file
-4. Run npm install && npm run dev
-5. Run php artisan serve 
-6. Happy coding
+   cp .env.example .env
+   php artisan key:generate
+5. Run npm install && npm run dev
+6. Run php artisan serve 
+7. Happy coding
 ## About Laravel
 
 
